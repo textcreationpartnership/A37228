@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vvriting school-master, or, The anatomy of fair writing wherein is exactly expressed each several character, together with other rules and documents coincident to the art of fair and speedy writing / by John Davies of Hereford.</title>
+            <author>Davies, John, 1565?-1618.</author>
+         </titleStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37228</idno><idno type="EEBO-CITATION">14871932</idno>
+  <idno type="VID">102774</idno>
+  <idno type="EEBO-PROQUEST">2240893215</idno>
+  
+            <idno type="STC">Wing D391</idno>
+            <idno type="STC">ESTC R34842</idno>
+            <idno type="OCLC">14871932</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A37228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102774)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1568:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vvriting school-master, or, The anatomy of fair writing wherein is exactly expressed each several character, together with other rules and documents coincident to the art of fair and speedy writing / by John Davies of Hereford.</title>
+                  <author>Davies, John, 1565?-1618.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Griffin for John Overton, and sold by him   at his house ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Penmanship.</term>
+               <term type="topical_term">Calligraphy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102774:1"/>
+            <p>THE VVriting School-Master: OR, The Anatomy of Fair WRITING.</p>
+            <p>Wherein is exactly expressed each several Character; Together With other Rules and Documents coincident to the Art of Fair and Speedy WRITING.</p>
+            <p>By JOHN DAVIES of HEREFORD.</p>
+            <q>Vivit post Funera Virtus.</q>
+            <q>
+               <p>
+                  <hi>Prov.</hi> Teach a Child in the way he should go, and when he is old, he will not depart from it. Apply thine heart to Instruction, and thine ears to the words of Knowledge, that it may be well with, thee in thy latter end.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. Griffin</hi> for <hi>John Overton,</hi> and sold by him at his Hou<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> at the Sign of the <hi>White-Horse</hi> in <hi>Little Britain,</hi> next the Gate. 1667. <hi>Wh<gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> you may have two famous</hi> Maps <hi>of the City of</hi> London, <hi>Before, and Since the Fire.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:102774:2"/>
+            <pb n="3" facs="tcp:102774:2"/>
+            <head>DIRECTIONS.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hat measure of knowledg and practice it hath pleased God to lend me upon the accompt of Improvement, I have in the discharge of my Dutie, extended to the benefit of all whom it may concern, as well as to mine own Interest alone: chieflie to those who dwell in remote places, who want the help of Teachers; yea, and for the benefi of such Teachers also, as be anie wise defective in Abilities.</p>
+            <p>Hold your Head so strait up and evenlie, as that the Book or Paper whereon you write, may be right before your Face; and your Bodie so orderlie, as that you lean not your Breast to the Table; as also your Elbows so close to your sides, as that your Arms may be kept strait forth; and the middle part of your Book or Paper so direct<g ref="char:EOLhyphen"/>lie against the midst of your Bodie, and so equallie near at both ends, to that side or part of the Table next you, as the strait holding forth of your Arms will permit.</p>
+            <p>Hold your Pen lightlie on the point of your Thumb, almost touching the Nail thereof, the Fore-finger on the top, and the Middle-finger longest, at the upper part of the mouth; as also your Thumb, and all your Fingers extended to their full length; lest both the Hand depend not on the points of the third and fourth Fingers as it ought, and the Thumb crook or bow in the midst, the rest of the Fingers be subject to the like, and hinder the well-doing of the work. Likewise, take Ink with the mouth of the Pen downwards, and shake the Pen over the Ink horn every time, lest you either make an uncleanlie Letter, or blot the Paper, or both.</p>
+            <p>These things being thus carefullie done, then draw two Rules (otherwise called double Rule) and write the bodies of all Letters between those two Rules, and both
+<pb n="4" facs="tcp:102774:3"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he heads of all that have heads over the high Rule, and the feet of all that have feet under the low Rule, as far as the bodies are in length from the high Rule to the low, according to the measure used in Printing; which though it be not the tenth part so old as Writing, yet it hath come to a far greater perfection, according to the Rules of Art grounded upon Reason.</p>
+            <p>Then for your better apprehending both of verbal Instruction, and literal De<g ref="char:EOLhyphen"/>monstration, it will be needful for you to understand those terms of Art which di<g ref="char:EOLhyphen"/>stinguish the divers passages of the Pen in Writing, which be Twelve in Number, according to the varietie of the Letters, strait down, and strait up; strait forwards, and strait backwards; sloping up to the right hand, and sloping down to the left hand; sloping up to the left hand, and sloping down to the right hand; com<g ref="char:EOLhyphen"/>passing down to the right hand, and compassing down to the left hand; com<g ref="char:EOLhyphen"/>passing up to the left hand, and compassing up to the right hand.</p>
+            <p>Having thus far proceeded, it is next to be considered, That there must be equal distance alwaies kept between Letters in Words, between Words and Words, and between Lines and Lines, whiles the generalitie of the Writing continueth in an equal proportion, which being carefullie observed, it will be fit time for you to be<g ref="char:EOLhyphen"/>gin, and form disjoined Letters severallie, upon the aforementioned Rules, u<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>til you can write them skilfullie, if your Capacitie cannot reach the writing of them without Rule jointlie; and according as you come short in framing of them ac<g ref="char:EOLhyphen"/>cording to your Copie, and have <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot a Teacher to instruct you, it will be verie re<g ref="char:EOLhyphen"/>quisite for you to examine and compare them with your pat<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ern as you p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oceed, and then at your writing of them thenceforth, to avoid all such Errors as escaped in your first endeavors.</p>
+            <p>Whether you be a new Beginner, or have made some progress before y<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u are to write verie slowlie, until you can write skilfullie, and then you may endeavour by d<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>grees to such speed thereafter, as you may still keep both the same form and suf<g ref="char:EOLhyphen"/>ficiencie
+<pb n="5" facs="tcp:102774:3"/>of Letter; but having attained some measure of perfection, when upon anie occasion you are driven to such haste of businesses, as that you must needs write fast, then you may serve your present need with all convenient expedition, and practise again with more care and deliberation, when you can spare more time; lest otherwise upon neglecting that needful task, you get such a habit of writing too speedilie, as you will quite forget to write more exactlie.</p>
+            <p>For, Writing carefullie and slowlie, is to be used in all kind of Affairs, which re<g ref="char:EOLhyphen"/>quireth to be written perfectlie, though it be onlie in the same form of Letter, which you write in other things speedilie; and yet in being so written, it will be better in regard of its speed, than a set form of Writing: so you will in short time know by your own experience, that both those ways of writing one form of Letter, are far more fit in their respective places, than to be so addicted to anie one way of doing thereof, as that the other way should not be also used when there is need.</p>
+            <p>And they may be so much the easier written, either slowlie or speedilie, in that they differ not in Letter, being one and the same, but onlie in length or shortness of time, whiles they are in doing, chieflie when the Letters are so framed, that anie word without exception (according to my custom) may be written, before the removing of the Pen: Whereas the usual set form of Writing is much slower to be done, than the slowest way of this form, because it is of such a slow different Character, as requireth the Pen to be taken off the Paper, almost in framing of everie Letter. Therefore, if the changing of such a slow set form into another, which in all these re<g ref="char:EOLhyphen"/>spects is better, both because it is as good a Letter, and much speedier and readier, is so good a Noveltie, that in such a necessarie respect, it surpasseth that which is of Antiquitie.</p>
+            <p>Now concerning the necessaries belonging to Writing, choose the clearest second, hardest third, and greatest first of a Goose-wing; which when you make, first scrape and rub, then out off about an Inch long from the Nib of the Quill, slit it up quick<g ref="char:EOLhyphen"/>lie,
+<pb n="6" facs="tcp:102774:4"/>that it may write cleanlie, and not too far, lest too much thereof be spent idelie: Then cut off so much of the point verie carefullie, as there may remain sufficient length of the Slit, for the size of the Letter, which you intend to write, and make the upper part or mouth, to begin at the upper end of the slit, of such measure higher than the point, as that neither too much length should make it weak, or not give Ink, nor too much shortness cause it to blot: and it is requisite for the greater strength, that the mouth exceed not twice the length of the point: So much by lite<g ref="char:EOLhyphen"/>ral instruction for the Pen.</p>
+            <p>And if you desire to make Ink for your own use, and to pleasure others, take 12 Ounces of Nut Galls broken small, and put into a Quart of stale Beer, White-wine, or the half thereof Vineger; and when it hath been stirred about twice a day the space of a Week at least, strain out the Liquor from the Galls, and put 9 Ounces of Copras therein, 6 Ounces of Gum-Arabick broken small, 3 Ounces of White Su<g ref="char:EOLhyphen"/>gar, and 2 Ounces of Roch-allum: Among the Galls, you may put fullie as much Liquor, and but the half of the Ingredients you did before: and if within a Mo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th thereafter, it be as good as the former, you may use it in the same manner, otherwise a little more stuff and longer standing, will make it to your desire: But if you will have it readie in haste, boyle it in an earthen Vessel half an hour on a slow Fire, that you may have the whole substance of the Galls by that means so much the sooner; for all the rest melts in the Liquor; then you may throw out the husks of the Galls, and nothing will remain but clear Ink.</p>
+            <p>Thus at the request of a worthie Friend, I have endeavoured to comprehend in these few pages, the substance of those two printed Sheets which are usuallie in Copie-Books, intituled, THE WRITING SCHOOLMASTER, whereof some particulars are contrarie to mine own practice, to wit, The teaching of disjoined Letters, and writing on ruled Lines; others I have added, which are disagreeable to the common practice: But (I hope) upon good grounds of Reason, agreeable to
+<pb n="7" facs="tcp:102774:4"/>mine own experience, namelie, the limiting of heads and feet of written Letters, ac<g ref="char:EOLhyphen"/>cording to the length of printed Letters of the like size; and have not onlie recti<g ref="char:EOLhyphen"/>fied the Consusedness both of matter and order in those printed Sheets, and inter<g ref="char:EOLhyphen"/>mixed both necessarie Rules, and pertinent words, where there was need: but like<g ref="char:EOLhyphen"/>wise, instead both of some envious Discours<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s against other Teachers, and other frivolous in high phrases (used by some) above the Capacitie of Learners, have added in verie easie terms divers needful Directions for the use of Learners, over and above what was inserted in the printed Sheets. All which, in order to the improvement of mi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e own Talent, I wish may be profitable unto all who use the same for their need, hoping to publish manie better things both of this, and other kinds, to the Glorie of God.</p>
+            <closer>
+               <signed>DAVID BROWN.</signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>A particular Catalogue of Copper-Plates, Printed by and for <hi>John Overton,</hi> at the <hi>White Horse</hi> in <hi>Little Brittain,</hi> London. <hi>1667.</hi>
+            </head>
+            <p n="1">1. a New Map of the World. 2. Excel<g ref="char:EOLhyphen"/>lent Maps of the City of <hi>London,</hi> before and since the Fire, in Prospect and Ground plot. 3. A Map of <hi>England.</hi> 4. <hi>Scot<g ref="char:EOLhyphen"/>land.</hi> 5. <hi>Ireland.</hi> 6. <hi>France,</hi> in single sheets, large paper. 7. Great <hi>Brittain</hi> and <hi>Ireland</hi> in four large sheets, with the Isles adjacent unto them; also the Battels fought in each King<g ref="char:EOLhyphen"/>dom, expressed by Tents. 8. <hi>Kent</hi> in two sheets, with the High-ways from town to town, &amp;c. not done before, &amp;c. 2 <hi>Essex.</hi> 3. <hi>Surrey.</hi> 4. <hi>Warwickshire.</hi> 5. <hi>Hartforsshire,</hi> not any the like Map extant. 6. <hi>Suffolk.</hi> 7. <hi>Nor<g ref="char:EOLhyphen"/>folk.</hi> 8. <hi>Northamptonshire.</hi> 9. <hi>Staffordshire.</hi> 10. <hi>Leicestershire</hi> and <hi>Rutland.</hi> 11. <hi>VVorcestershire.</hi> 12. <hi>Cheshire.</hi> 13. <hi>Lancashire.</hi> 14. <hi>Barkshire.</hi> 15. <hi>Somersetshire,</hi> with the scales of each Map, and the Distinctions of each Hundred, <hi>&amp;c.</hi> 16. A new Map of <hi>Virginia, Mary-Land,</hi> &amp;c. 17. The Arms, Brests, Supporters and Motto's of all the several Companies and Corporati<g ref="char:EOLhyphen"/>ons of the famous City of <hi>London,</hi> as they
+<pb facs="tcp:102774:5"/>now bear them described, by the Letters of their proper Clours, with the Arms of all the other Cities in the Nation. A Collection of sundry Signs and Badges, for Inns, Taverns, or Victualling-houses, to distinguish each Room by its name: in Colors, and otherways.</p>
+            <p>
+               <hi>Large Sheets of Effigies and Stories in Colours and otherways.</hi>
+            </p>
+            <p n="1">1. <hi>Orpheus</hi> playing to the Beasts. 2. The 4 Seasons of the year. 3. All the Kings of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> from <hi>VVilliam</hi> the Conqueror, to King <hi>Charles,</hi> in Heads. 4. X Commandments in 2 Tables. 5. Death his Anatomy, with the me<g ref="char:EOLhyphen"/>mory of the Righteous, and oblivion of the wicked, in sentences of Scripture. 6. The River of <hi>Tyne</hi> from the Sea to <hi>Newcastle,</hi> with the Soundings, places of Lading of Sea <hi>Callus</hi> and the <hi>minus,</hi> &amp;c. 7. The Book of Flowers, Fruits, Beasts, Birds and Flyes, exactly drawn, Printed and sold by <hi>John Overton.</hi> [The Five Senses. 4 Elements. 7 Liberal Arts. <hi>P. Lom<g ref="char:EOLhyphen"/>bards</hi> 4 parts of the World. 4 Winds. 4 Com<g ref="char:EOLhyphen"/>plexions. 4 Times of the day. 3 Graces. 9 Modern Worthies. 4 Vertues.] 8. Large pie<g ref="char:EOLhyphen"/>ces, being rare Knots of Mr. <hi>E. Cocker,</hi> Master in Writing. 9. Originals and Copies of Sir <hi>Anth. Vandikes</hi> 4 of many sorts. 10. A rare Book of Folding, by <hi>Edward Pierce,</hi> for Paint<g ref="char:EOLhyphen"/>ers, Carvers, Gentlemen, &amp;c.</p>
+            <p>
+               <hi>These are Copy-Books.</hi>
+            </p>
+            <p>The <hi>Writing Schoolmaster,</hi> or the Anatomy of Fair Writing, wherein is expressed each several Character, together with other Rules coincident to the Art of fair and speedy VVri<g ref="char:EOLhyphen"/>ting, by <hi>John Davies</hi> of <hi>Hereford.</hi> 2. A Copy-Book containing variety of Examples of all the most curious Hands written, with the Breaks of each letter, with the 3 usual and most necessary hands of our Nation, by <hi>Mar<g ref="char:EOLhyphen"/>tin Billingsley</hi> Master in VVriting. 3. <hi>Billing<g ref="char:EOLhyphen"/>sley</hi> in small. 4. The <hi>Penmans Recreation,</hi> con<g ref="char:EOLhyphen"/>taining Examples of fair and speedy VVriting, of excellent use for all such as aim at perfecti<g ref="char:EOLhyphen"/>on therein, by <hi>James Hodar.</hi> 5. A Copy-Book of the usual Hands written in <hi>England,</hi> by Mr. <hi>Johnson.</hi> 6. <hi>Arts Glory,</hi> or the <hi>Penmans Trea<g ref="char:EOLhyphen"/>sury,</hi> containing various Examples of <hi>Secreta<g ref="char:EOLhyphen"/>ry, Text, Roman</hi> and <hi>Italian</hi> Hands, adorned with curious Knots and Flourishes; also a Receipt for Ink, and to write in Gold, by <hi>Ed<g ref="char:EOLhyphen"/>ward Cocker.</hi> 7. The <hi>Pens Treasury,</hi> containing several Directions very useful, both for the Art of writing of true <hi>English,</hi> with choise ex<g ref="char:EOLhyphen"/>periments for such as practise Pen or Pensil, by <hi>J. Fisher.</hi> 8. A Copy-Book containing plain and easie directions to Fair VVriting, by <hi>Lewis Hughs.</hi> 9. A Copy-Book, or Fair VVriting of several Hands used, Published by <hi>P. S.</hi> 10. A Copy-Book of the usual Hands written, with easie Rules, by which one may learn to write of himself.</p>
+            <p>The posture of the Musket and Pike, use<g ref="char:EOLhyphen"/>ful for the Practitioners thereof, as also for Officers.</p>
+            <pb facs="tcp:102774:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
